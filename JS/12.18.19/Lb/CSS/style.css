@@ -1,0 +1,27 @@
+.rightClass{
+width:80%;
+}
+.leftClass{
+    float: left ;
+    width:60%;
+    margin: 20px;
+}
+.toCenter{
+    margin:20px;
+    float:left;
+    width:30%;
+}
+h1{
+    text-align: center;
+    color: grey;
+}
+.addButton{
+    margin-right: auto !important;
+    margin-left:auto !important;
+}
+#refresh{
+    margin: 1%;
+}
+.editButton{
+    margin-left:10px;
+}

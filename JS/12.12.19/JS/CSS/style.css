@@ -1,0 +1,40 @@
+body{
+    background-image: url(../../Images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: 'Rubik', sans-serif;
+    border-radius: 5px;
+}
+.inputDiv{
+
+}
+input{
+    width:60%;
+    font-size: 15px; 
+}
+.ImgPeople{
+    opacity: 1 !important;
+    height: 100px;
+    width: 100px;
+    
+}
+button
+{
+    opacity: 100% !important;
+    padding: 10px;
+    color:white;
+    background-color: #2ccc72;
+}
+.reg{
+    margin-top: 200px;
+    background-color: darkslategrey;
+    opacity: 0.5;
+    width: 350px;
+    height: 350px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+    text-align: center;
+    color: white;
+}
